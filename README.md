@@ -10,3 +10,5 @@
 21.Merge Two Sorted Lists(c)  
 26.Remove Duplicates from Sorted Array(c)  
 27.Remove Element(c)  
+28.Implement Strstr()(c)  
+
