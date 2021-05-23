@@ -1,7 +1,7 @@
 # Leetcode_questions
  
-Currently have:
-    easy:
+##Currently have:
+    ###easy:
         1.Two sum(c)
         7.Reverse Integer(c)
         9.Palindrome Number(c)
