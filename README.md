@@ -11,4 +11,5 @@
 26.Remove Duplicates from Sorted Array(c)  
 27.Remove Element(c)  
 28.Implement Strstr()(c)  
+35.Search Insert Position(c)  
 
