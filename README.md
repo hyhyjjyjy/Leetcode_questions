@@ -13,5 +13,6 @@
 28.Implement Strstr()(c)  
 35.Search Insert Position(c)  
 53.Maximum Subarray(python:Dynamic programming)**  
+58.Length of Last Word(c++)  
 
 
