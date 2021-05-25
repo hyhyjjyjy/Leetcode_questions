@@ -14,5 +14,7 @@
 35.Search Insert Position(c)  
 53.Maximum Subarray(python:Dynamic programming)**  
 58.Length of Last Word(c++)  
+66.Plus One(c++)  
+67.Add Binary(c++)  
 
 
