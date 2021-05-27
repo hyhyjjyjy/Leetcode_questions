@@ -19,6 +19,10 @@
 69.Sqrt(x) (c++:Binary division)
 70.Climbing Stairs(c++:Dynamic programming)  
 83.Remove Duplicates from Sorted List(c++)  
-88.Merge Sorted Array(c++)  
+88.Merge Sorted Array(c++)  00
 94.Binary Tree Inorder Traversal(c++:tree traversal inorder)  
 100.Same Tree(c++)  
+
+### medium:
+2.Add Two Numbers(c++)  
+
