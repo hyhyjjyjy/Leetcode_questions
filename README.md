@@ -23,6 +23,9 @@
 94.Binary Tree Inorder Traversal(c++:tree traversal inorder)  
 100.Same Tree(c++)  
 
+101.Symmetric Tree(c++)  
+
+
 ### medium:
 2.Add Two Numbers(c++)  
 3.Longest Substring Without Repeating Characters(c++)  
