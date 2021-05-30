@@ -34,6 +34,8 @@
 2.Add Two Numbers(c++)  
 3.Longest Substring Without Repeating Characters(c++)  
 6.ZigZag Conversion(c++)  
+8.String to Integer(atoi:c++)  
+  
 
 
 
