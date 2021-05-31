@@ -28,6 +28,7 @@
 108.Convert Sorted Array to Binary Search Tree(c++)  
 110.Balanced Binary Tree(c++)  
 111.Minimum Depth of Binary Tree(c++)  
+112.Path Sum(c++)  
 
 
 ### medium:
