@@ -29,6 +29,7 @@
 110.Balanced Binary Tree(c++)  
 111.Minimum Depth of Binary Tree(c++)  
 112.Path Sum(c++)  
+118.Pascal's Triangle(c++)  
 
 
 ### medium:
