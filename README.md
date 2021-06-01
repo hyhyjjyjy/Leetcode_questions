@@ -31,6 +31,7 @@
 112.Path Sum(c++)  
 118.Pascal's Triangle(c++)  
 119.Pascal's Triangle II(c++)  
+121.Best Time to Buy and Sell Stock(c++)  
 
 
 ### medium:
