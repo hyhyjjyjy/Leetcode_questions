@@ -30,6 +30,7 @@
 111.Minimum Depth of Binary Tree(c++)  
 112.Path Sum(c++)  
 118.Pascal's Triangle(c++)  
+119.Pascal's Triangle II(c++)  
 
 
 ### medium:
