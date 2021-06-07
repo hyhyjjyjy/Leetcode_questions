@@ -33,6 +33,7 @@
 119.Pascal's Triangle II(c++)  
 121.Best Time to Buy and Sell Stock(c++)  
 122.Best Time to Buy and Sell Stock II(c++)  
+125.Valid Palindrome(c++)  
 
 ### medium:
 2.Add Two Numbers(c++)  
