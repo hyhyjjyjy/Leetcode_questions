@@ -34,7 +34,9 @@
 121.Best Time to Buy and Sell Stock(c++)  
 122.Best Time to Buy and Sell Stock II(c++)  
 125.Valid Palindrome(c++)  
-136.Single Number(c++)  
+136.Single Number(c++: Bit operation**)  
+141.Linked List Cycle(c++: double pointer)  
+  
 
 
 ### medium:
