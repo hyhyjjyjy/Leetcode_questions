@@ -36,7 +36,7 @@
 125.Valid Palindrome(c++)  
 136.Single Number(c++: Bit operation**)  
 141.Linked List Cycle(c++: double pointer)  
-  
+144.Binary Tree Preorder Traversal(c++)    
 
 
 ### medium:
